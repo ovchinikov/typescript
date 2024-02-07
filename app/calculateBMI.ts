@@ -34,3 +34,5 @@ try {
     console.error(errorMessage)
   }
 }
+
+export default calculateBMI
